@@ -59,9 +59,7 @@ The problem we are looking to solve is that it can be hard to seperate students 
 	Average Group GPA, Standard Deviation
 	
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
-The input will be a file containing information about a list of students. Each line will contain a students' full name and GPA (in double).
+3. Input: The input will be a file containing information about a list of students. Each line will contain a students' full name and GPA (in double).
 
 Example input:
 
