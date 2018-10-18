@@ -39,7 +39,7 @@ X-Team Group Maker Proposal
 
 2. The program will output a file with a list of each team and each group member in each team. The averaged GPA of the group will also be listed with each group. Users can choose the name of the output file.
 
-	At the bottom of the file we will output some stats on the groups, like average group GPA, standard deviation of group GPAs
+	At the bottom of the file we will output some stats on the groups, like average group GPA, standard deviation of group GPAs.
 
 
 
