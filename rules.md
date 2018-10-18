@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 78 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -9,7 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+Read the project details, then divide and distribute workload fairly and based on strengths if at all possible.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
