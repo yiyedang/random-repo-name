@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team Group Maker Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -35,7 +35,7 @@ The problem we are looking to solve is that it can be hard to seperate students 
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+X-Team Group Maker Proposal
 
 2. Output: The program will output a file with a list of each team and each group member in each team. The averaged GPA of the group will also be listed with each group.
 
@@ -44,7 +44,12 @@ The problem we are looking to solve is that it can be hard to seperate students 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+The input will be a file with the first line containing the total number of students and the groups needed (both integers). The rest of file will be information about students. Each line will contain a students' full name and GPA (in double).
+Example input:
+400 80
+First name1,last name1,3.0
+First name2,last name2,3.5
+First name3,last name3,3.8
 
 4. User Interface: Users will run the program from the console.
 
