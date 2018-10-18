@@ -1,4 +1,4 @@
-# X-Team Group Maker Proposal
+# X-Team 78 Project Proposal: X-Team Group Maker
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
