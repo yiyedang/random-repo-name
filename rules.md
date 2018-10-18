@@ -22,7 +22,7 @@ We will communicate difficulties with the agreed upon group chat. We will make s
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+We will check the progress frequently and send text reminders in the group chat on time.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
