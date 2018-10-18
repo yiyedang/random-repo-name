@@ -84,6 +84,8 @@ Three classes:
 - Group.java represents a group  of students.  It stores the list of students, an average GPA and a team number  
 - Main.java parses input of the people file, makes Person instances, sorts them into a BST, takes user input to find number of people per group, separates the people BST into groups to form near-equal GPA averages in each group, outputs these groups to file.
 
+We will test each class and method extensively through J-Unit testing.
+
 
 ## Edit and Submit this file and any figures referenced by this document.
 
