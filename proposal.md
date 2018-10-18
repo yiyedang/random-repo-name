@@ -82,7 +82,7 @@ The problem we are looking to solve is that it can be hard to seperate students 
 Three classes:
 - Person.java represents a single student, having members for their name and GPA, with accessors and mutators  
 - Group.java represents a group  of students.  It stores the list of students, an average GPA and a team number  
-- Main.java parses input of the people file, makes Person instances, sorts them, takes user input to find number of people per group, separates them into groups to form near-equal GPA averages in each group, outputs these groups to file.
+- Main.java parses input of the people file, makes Person instances, sorts them into a BST, takes user input to find number of people per group, separates the people BST into groups to form near-equal GPA averages in each group, outputs these groups to file.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
