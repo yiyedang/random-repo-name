@@ -46,7 +46,17 @@ The problem we are looking to solve is that it can be hard to seperate students 
 
 
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+4. User Interface: Users will run the program from the console.
+
+Interface on example run of program: 
+
+----X Team Group Maker----
+Loaded XXX people.         
+How many people per group? 
+<UserInput>                 
+Separated into XXX groups.  
+Output to file successful.  
+--------------------------
 
 
 
