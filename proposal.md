@@ -46,9 +46,13 @@ X-Team Group Maker Proposal
 
 The input will be a file with the first line containing the total number of students and the groups needed (both integers). The rest of file will be information about students. Each line will contain a students' full name and GPA (in double).
 Example input:
+
 400 80
+
 First name1,last name1,3.0
+
 First name2,last name2,3.5
+
 First name3,last name3,3.8
 
 4. User Interface: Users will run the program from the console.
