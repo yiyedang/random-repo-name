@@ -33,9 +33,7 @@ The problem we are looking to solve is that it can be hard to seperate students 
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
-
-X-Team Group Maker Proposal
+1. Name: X-Team Group Maker Proposal
 
 2. The program will output a file with a list of each team and each group member in each team. The averaged GPA of the group will also be listed with each group. Users can choose the name of the output file.
 
