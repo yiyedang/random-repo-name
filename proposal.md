@@ -35,12 +35,26 @@ The problem we are looking to solve is that it can be hard to seperate students 
 
 1. Name: X-Team Group Maker Proposal
 
-2. The program will output a file with a list of each team and each group member in each team. The averaged GPA of the group will also be listed with each group. Users can choose the name of the output file.
+2. Output: The program will output a file with a list of each team and each group member in each team. Users can choose the name of the output file.
 
-	At the bottom of the file we will output some stats on the groups, like average group GPA, standard deviation of group GPAs.
-
-
-
+	At the bottom of the file we will output some stats on the groups, like average GPA of each group, standard deviation of group GPAs, etc.
+	
+	Example output:
+	GROUP 1:
+	FirstName1, LastName1
+	FirstName2, LastName2
+	FirstName3, LastName3
+	FirstName4, LastName4
+	
+	GROUP 2:
+	FirstName1, LastName1
+	FirstName2, LastName2
+	FirstName3, LastName3
+	FirstName4, LastName4
+	
+	STATS
+	Average Group GPA, Standard Deviation
+	
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
