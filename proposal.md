@@ -62,6 +62,7 @@ The problem we are looking to solve is that it can be hard to seperate students 
 3. Input: The input will be a file containing information about a list of students. Each line will contain a students' full name and GPA (in double).  
 
 	Example input: 
+	
 	First name1,last name1,3.0  
 	First name2,last name2,3.5  
 	First name3,last name3,3.8 
