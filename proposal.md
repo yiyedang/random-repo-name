@@ -38,7 +38,8 @@ Describe at a high level a program that could solve that problem.
 
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+2. Output: The program will output a file with a list of each team and each group member in each team. The averaged GPA of the group will also be listed with each group.
+
 
 
 
