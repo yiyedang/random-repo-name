@@ -50,7 +50,10 @@ The problem we are looking to solve is that it can be hard to seperate students 
 
 Interface on example run of program: 
 
-:X Team Group Maker:\n
+:X Team Group Maker:
+
+
+
 Loaded XXX people.         
 How many people per group? 
 <UserInput>                 
