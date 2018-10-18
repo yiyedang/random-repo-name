@@ -40,6 +40,7 @@ The problem we are looking to solve is that it can be hard to seperate students 
 	At the bottom of the file we will output some stats on the groups, like average GPA of each group, standard deviation of group GPAs, etc.
 	
 	Example output:
+	
 	GROUP 1:  
 	FirstName1, LastName1  
 	FirstName2, LastName2  
@@ -47,19 +48,14 @@ The problem we are looking to solve is that it can be hard to seperate students 
 	FirstName4, LastName4
 	
 	
-	GROUP 2:
-	
-	FirstName1, LastName1
-	
-	FirstName2, LastName2
-	
-	FirstName3, LastName3
-	
+	GROUP 2:  
+	FirstName1, LastName1  
+	FirstName2, LastName2  
+	FirstName3, LastName3  
 	FirstName4, LastName4
 	
 	
-	STATS
-	
+	STATS  
 	Average Group GPA, Standard Deviation
 	
 
