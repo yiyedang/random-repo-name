@@ -78,7 +78,7 @@ Interface on example run of program:
 X Team Group Maker  
 Loaded XXX people.         
 How many people per group? 
-<UserInput>                 
+\<UserInput\>                 
 Separated into XXX groups.  
 Output to file successful.
 
@@ -86,7 +86,7 @@ Output to file successful.
 Three classes:
 - Person.java represents a single student, having members for their name and GPA, with accessors and mutators  
 - Group.java represents a group  of students.  It stores the list of students, an average GPA and a team number  
-- Main.java parses input of the people file, makes Person instances, sorts them, takes user input to find number of people per gropu, separates them into groups to form near-equal GPA averages in each group, outputs these groups to file.
+- Main.java parses input of the people file, makes Person instances, sorts them, takes user input to find number of people per group, separates them into groups to form near-equal GPA averages in each group, outputs these groups to file.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
