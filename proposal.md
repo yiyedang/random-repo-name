@@ -41,18 +41,29 @@ The problem we are looking to solve is that it can be hard to seperate students 
 	
 	Example output:
 	GROUP 1:
+	
 	FirstName1, LastName1
+	
 	FirstName2, LastName2
+	
 	FirstName3, LastName3
+	
 	FirstName4, LastName4
+	
 	
 	GROUP 2:
+	
 	FirstName1, LastName1
+	
 	FirstName2, LastName2
+	
 	FirstName3, LastName3
+	
 	FirstName4, LastName4
 	
+	
 	STATS
+	
 	Average Group GPA, Standard Deviation
 	
 
