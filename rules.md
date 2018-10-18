@@ -13,7 +13,7 @@ Read the project details, then divide and distribute workload fairly and based o
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+Discuss with the group and make an outline/deadlines to make sure we are staying on track to finish the tasks on time.
 
 
 ## How will will communicate difficulties with a task assigned to us
