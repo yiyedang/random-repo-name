@@ -45,6 +45,7 @@ X-Team Group Maker Proposal
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
 The input will be a file with the first line containing the total number of students and the groups needed (both integers). The rest of file will be information about students. Each line will contain a students' full name and GPA (in double).
+
 Example input:
 
 400 80
