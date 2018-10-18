@@ -29,7 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-The problem we are looking to solve is that it can be hard to seperate students into groups. Often, when seperating students into groups the grouping can become very uneven. Students with low GPA's can be paired with other students with low GPA's which can lead to some groups strugling. OUr progra looks to solvet his by grouping students based on there GPA's. The program will take in a file with names and gpa's. The user will then specify the size of the groups and the program will create the GPA balanced groups.
+The problem we are looking to solve is that it can be hard to seperate students into groups. Often, when seperating students into groups the grouping can become very uneven. Students with low GPA's can be paired with other students with low GPA's which can lead to some groups struggling. Our program looks to solve this by grouping students based on there GPA's. The program will take in a file with names and gpa's. The user will then specify the size of the groups and the program will create the GPA balanced groups.
 
 ## Questions to answer for Exercise #2
 
