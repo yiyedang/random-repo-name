@@ -61,7 +61,6 @@ First name3,last name3,3.8
 Interface on example run of program: 
 
 X Team Group Maker
-
 Loaded XXX people.         
 How many people per group? 
 <UserInput>                 
