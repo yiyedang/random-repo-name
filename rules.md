@@ -17,7 +17,7 @@ and missed deadlines.
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+We will communicate difficulties with the agreed upon group chat. We will make sure to take all questions fairly and not let anyone get behind due to any questions.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
