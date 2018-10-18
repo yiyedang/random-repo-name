@@ -63,20 +63,20 @@ The problem we are looking to solve is that it can be hard to seperate students 
 
 	Example input: 
 	
-	First name1,last name1,3.0  
-	First name2,last name2,3.5  
-	First name3,last name3,3.8 
+	FirstName1,lastName1,3.0  
+	FirstName2,lastName2,3.5  
+	FirstName3,lastName3,3.8 
 
 4. User Interface: Users will run the program from the console.
 
-Interface on example run of program: 
+	Interface on example run of program: 
 
-X Team Group Maker  
-Loaded XXX people.         
-How many people per group?     
-\<UserInput\>                             
-Separated into XXX groups.  
-Output to file successful.
+	X Team Group Maker  
+	Loaded XXX people.         
+	How many people per group?     
+	\<UserInput\>                             
+	Separated into XXX groups.  
+	Output to file successful.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 Three classes:
